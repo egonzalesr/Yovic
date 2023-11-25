@@ -1,0 +1,19 @@
+.aside-div {
+    width: 280px;
+}
+
+.logo-aside-img {
+    height: 4rem;
+    width: auto;
+    margin-right: 4px;
+}
+
+.rotate-icon {
+    transition: transform 0.3s ease;
+}
+
+.link-dark:hover {
+    background-color: #0d6efd;
+    color: white;
+    /* Cambia el color del ícono al pasar el ratón */
+}
